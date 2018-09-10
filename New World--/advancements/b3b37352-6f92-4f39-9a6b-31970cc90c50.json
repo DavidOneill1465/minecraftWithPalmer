@@ -1,13 +1,10 @@
 {
-<<<<<<< HEAD
-=======
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2018-09-09 16:40:24 -0500"
     },
     "done": true
   },
->>>>>>> refs/remotes/origin/master
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_chiseled_sandstone": "2018-09-02 16:11:09 -0500"
@@ -74,17 +71,6 @@
     },
     "done": true
   },
-<<<<<<< HEAD
-  "minecraft:recipes/combat/diamond_chestplate": {
-    "criteria": {
-      "has_diamond": "2018-09-02 18:13:56 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_sandstone": {
-    "criteria": {
-      "has_stone_slab": "2018-09-02 17:22:35 -0500"
-=======
   "minecraft:recipes/building_blocks/chiseled_sandstone": {
     "criteria": {
       "has_stone_slab": "2018-09-02 17:22:35 -0500"
@@ -94,7 +80,6 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2018-09-02 18:13:56 -0500"
->>>>>>> refs/remotes/origin/master
     },
     "done": true
   },
@@ -110,15 +95,12 @@
     },
     "done": true
   },
-<<<<<<< HEAD
-=======
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2018-09-09 16:39:04 -0500"
     },
     "done": true
   },
->>>>>>> refs/remotes/origin/master
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2018-09-02 17:43:46 -0500"
@@ -167,17 +149,6 @@
     },
     "done": true
   },
-<<<<<<< HEAD
-  "minecraft:recipes/misc/diamond": {
-    "criteria": {
-      "has_at_least_9_diamond": "2018-09-02 18:13:56 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/birch_boat": {
-    "criteria": {
-      "in_water": "2018-09-02 17:11:11 -0500"
-=======
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2018-09-02 17:11:11 -0500"
@@ -187,7 +158,6 @@
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_at_least_9_diamond": "2018-09-02 18:13:56 -0500"
->>>>>>> refs/remotes/origin/master
     },
     "done": true
   },
@@ -215,8 +185,6 @@
     },
     "done": true
   },
-<<<<<<< HEAD
-=======
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2018-09-09 16:39:04 -0500"
@@ -229,7 +197,6 @@
     },
     "done": true
   },
->>>>>>> refs/remotes/origin/master
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2018-09-02 18:13:56 -0500"
@@ -260,15 +227,9 @@
     },
     "done": true
   },
-<<<<<<< HEAD
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2018-09-02 18:12:27 -0500"
-=======
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_black_wool": "2018-09-09 16:39:04 -0500"
->>>>>>> refs/remotes/origin/master
     },
     "done": true
   },
@@ -278,15 +239,12 @@
     },
     "done": true
   },
-<<<<<<< HEAD
-=======
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2018-09-02 18:12:27 -0500"
     },
     "done": true
   },
->>>>>>> refs/remotes/origin/master
   "minecraft:recipes/redstone/redstone_lamp": {
     "criteria": {
       "has_glowstone": "2018-09-02 16:45:38 -0500"
@@ -299,11 +257,6 @@
     },
     "done": true
   },
-<<<<<<< HEAD
-  "minecraft:recipes/decorations/jukebox": {
-    "criteria": {
-      "has_diamond": "2018-09-02 18:13:56 -0500"
-=======
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2018-09-09 16:39:04 -0500"
@@ -313,7 +266,6 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2018-09-09 16:40:24 -0500"
->>>>>>> refs/remotes/origin/master
     },
     "done": true
   },
@@ -322,14 +274,11 @@
       "in_water": "2018-09-02 17:11:11 -0500"
     },
     "done": true
-<<<<<<< HEAD
-=======
   },
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2018-09-02 18:13:56 -0500"
     },
     "done": true
->>>>>>> refs/remotes/origin/master
   }
 }
